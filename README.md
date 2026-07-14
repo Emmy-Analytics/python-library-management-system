@@ -20,9 +20,10 @@ Capstone Project 2 - Purwadhika (Business and Data Analyst) | Python Fundamental
 </p>
 
 ## 📌 Project Overview
-This project was developed as Capstone Project 2 to demonstrate the implementation of Python programming fundamentals.
+This project was developed as Capstone Project 2 for Purwadhika's Business and Data Analyst program to demonstrate the implementation of Python programming fundamentals.
+The application demonstrates the implementation of Python fundamentals by building a CRUD-based system to manage library member data and borrowing information.
 
-Unlike a simple CRUD application, this system incorporates business rules commonly found in library management, including member registration, borrowing status validation, loan extension policies, overdue handling, and membership restrictions.
+Unlike a simple CRUD application, this system incorporates business rules commonly found in library management, including member registration, borrowing status validation, loan extension policies, overdue handling, and membership restrictions. 
 ---
 
 ## 🎯 Objectives
