@@ -275,8 +275,6 @@ def tampilkan_buku():
 
         print(f'{id_buku:^8}{detail["Judul"]:^32}{detail["Stok"]:^10}')
 
-        input("\nTekan ENTER untuk kembali...")
-
 def cari_data():
 
     while True:
